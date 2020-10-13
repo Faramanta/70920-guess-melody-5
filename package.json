@@ -23,5 +23,10 @@
   },
   "engines": {
     "node": "10"
+  },
+  "dependencies": {
+    "prop-types": "15.7",
+    "react": "16.12",
+    "react-dom": "16.12"
   }
 }
